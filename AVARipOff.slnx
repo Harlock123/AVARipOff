@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVARipOff/AVARipOff.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVARipOff.Tests/AVARipOff.Tests.csproj" />
+  </Folder>
+</Solution>
